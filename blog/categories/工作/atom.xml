@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[漠北苍狼]]></title>
-  <link href="http://mobiwolf.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 工作 | 漠北苍狼]]></title>
+  <link href="http://mobiwolf.github.com/blog/categories/工作/atom.xml" rel="self"/>
   <link href="http://mobiwolf.github.com/"/>
   <updated>2012-12-16T20:41:12+08:00</updated>
   <id>http://mobiwolf.github.com/</id>
@@ -18,14 +18,12 @@
     <link href="http://mobiwolf.github.com/blog/2012/12/16/2012nian-di-zong-jie/"/>
     <updated>2012-12-16T20:21:00+08:00</updated>
     <id>http://mobiwolf.github.com/blog/2012/12/16/2012nian-di-zong-jie</id>
-    <content type="html"><![CDATA[<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>2012就要过去了，是的，就要过去了，剩下一个月了。如果算阴历的话，那么还有一段日子。
-</span><span class='line'>
-</span><span class='line'>但是，我们工作都是用阳历，我要写一个工作总结，那么也应是阳历的比较合适。
-</span></code></pre></td></tr></table></div></figure>
+    <content type="html"><![CDATA[<p>```
+2012就要过去了，是的，就要过去了，剩下一个月了。如果算阴历的话，那么还有一段日子。</p>
 
+<p>但是，我们工作都是用阳历，我要写一个工作总结，那么也应是阳历的比较合适。</p>
+
+<p>```</p>
 
 <h3>* 首先<p></h3>
 
